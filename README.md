@@ -10,12 +10,13 @@
     💖 Math • H2O
 </pre>
 
-<figure>
+<div align="center">
     <img width="300" height="300" alt="simulation gif" src="https://github.com/user-attachments/assets/aa5fe0f2-79c1-4f85-9b2e-f39b2c0bfa57" />
-    <figcaption><kbd>manipulate the simulation with a pen and notebook</kbd></figcaption>
-</figure>
+    <br>
+    <kbd>manipulate the simulation with a pen and notebook</kbd>
+</div>
 
-<br><br>
+<br>
 
 [![](https://img.shields.io/badge/x-000000)](https://x.com/op3kay)
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/sreehari-rk)
