@@ -13,9 +13,8 @@
 <div>
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/aa5fe0f2-79c1-4f85-9b2e-f39b2c0bfa57"  
   style="object-fit: cover;" />
-</div>
 <kbd>manipulate the simulation with a pen and notebook</kbd>
-
+</div>
 
 <br><br>
 
