@@ -6,7 +6,7 @@
     💼 BTech @ IIITDMJ • Fullstack dev • Cryptography Nerd
     💻 Rust Programming • CTF 
     📖 Cryptography • Road Not Taken (ZKP ~ PQC)
-    🎮 Code • Music • Movies • Games
+    🎮 Code • Music • Movies • Video Games
     💖 Math • H2O
 </pre>
 
