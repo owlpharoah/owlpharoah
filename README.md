@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=&color=A7A459&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=90&lines=hey+%E3%83%84;welcome+to+my+codelair" alt="Typing SVG" />
 <br><br>
 <pre>
-    💼 BTech @ IIITDMJ • Fullstack dev • Cryptography Nerd
-    💻 Rust Programming • CTF 
+    💼 Bachelors @ IIITDMJ • Fullstack dev • Open Source
+    💻 Rust Programming • Free Data 
     📖 Cryptography • Road Not Taken (ZKP ~ PQC)
     🎮 Code • Music • Movies • Video Games
     💖 Math • H2O
