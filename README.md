@@ -4,10 +4,10 @@
 <br><br>
 <pre>
     💼 Bachelors @ IIITDMJ • Fullstack dev • Open Source
-    💻 Rust Programming • Free Data 
+    💻 Rust • Free Data 
     📖 Cryptography • Road Not Taken (ZKP ~ PQC)
-    🎮 Code • Music • Movies • Video Games
-    💖 Math • H2O
+    ⚙️ I'd love to explore Hardware
+    💖 Math • HtwoO
 </pre>
 
 <div>
