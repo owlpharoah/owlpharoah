@@ -6,7 +6,7 @@
     💼 Bachelors @ IIITDMJ • Fullstack dev • Open Source
     💻 Rust • Free Data 
     📖 Cryptography • Road Not Taken (ZKP ~ PQC)
-    ⚙️ I'd love to explore Hardware & Low Latency Systems
+    ⚙️ I'd love to explore Blockchain & Low Latency Systems
     💖 Math • HtwoO
 </pre>
 
